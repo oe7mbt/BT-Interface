@@ -1,4 +1,1 @@
-# BT-Interface
-
-Bluetooth-Interface für APRS
-
+# Bluetooth Interface für APRSDroid
