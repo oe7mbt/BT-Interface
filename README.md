@@ -1,1 +1,2 @@
-# Bluetooth Interface für APRSDroid
+Bluetooth Adpapter für AprsDroid
+
